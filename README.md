@@ -218,4 +218,4 @@ INVENTORY MANAGEMENT SYSTEM
 
 *Rabin Tamrakar*
 BSc (Hons) IT, Techspire College, Kathmandu, Nepal
-GitHub: [rabintmalla](https://github.com/rabintmalla)
+GitHub: https://github.com/rabintamrakarf25-sys/inventory-warehouse-management
